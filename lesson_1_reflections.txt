@@ -1,0 +1,1 @@
+The diff command was very useful to find the differences between files
