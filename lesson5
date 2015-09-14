@@ -1,0 +1,2 @@
+git log-view all the commits in the repository
+git diff commit1 commit2-line added/deleted in thesubsequent commits
